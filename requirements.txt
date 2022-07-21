@@ -1,0 +1,5 @@
+jupyterlab==3.3.2
+matplotlib==3.5.2
+modAL==0.4.1
+numpy==1.23.1
+scikit-learn==1.1.1
